@@ -1,6 +1,6 @@
 # 🌳 Tree DBH Detection with Forked Trees (Python + Open3D)
 
-This project detects tree Diameter at Breast Height (DBH) from UAV-derived point clouds using Python, Open3D, and ellipse fitting. 
+This project detects tree Diameter at Breast Height (DBH) from HLS-derived point clouds using Python, Open3D, and ellipse fitting. 
 It also handles forked trees (multi stems) automatically.
 
 ## 📂 Features
