@@ -144,4 +144,8 @@ def process_clusters(las_file, z_min=1.2, z_max=1.4):
 
     df = pd.DataFrame(results)
     df.to_csv("dbh_results_fork_ellipse.csv", index=False)
-    print("\nExported DBH results with forks and DB
+    print("\nExported DBH results with forks and DBH to dbh_results_fork_ellipse.csv")
+
+# RUN
+las_file = "pointcloud.las"  # Update your LAS file name here
+process_clusters(las_file)
