@@ -14,6 +14,13 @@ It also handles forked trees (multi stems) automatically.
 ## 🖥 Example Output
 ![Sample Output](figures/comparison_table.png)
 
+## 📂 Data Access
+Due to large file size, the point cloud data is available via Google Drive link below:
+
+👉 [Download Point Cloud Data (LAS file)](https://drive.google.com/your-sharing-link)
+
+*Note: The data is for academic use only.*
+
 ## 📜 License
 MIT License or CC BY 4.0
 
