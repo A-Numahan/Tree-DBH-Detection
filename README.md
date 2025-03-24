@@ -17,7 +17,7 @@ It also handles forked trees (multi stems) automatically.
 ## 📂 Data Access
 Due to large file size, the point cloud data is available via Google Drive link below:
 
-👉 [Download Point Cloud Data (LAS file)](https://drive.google.com/your-sharing-link)
+👉 [Download Point Cloud Data (LAS file)](https://drive.google.com/file/d/1xSmjEA6SlHddz-mSbJpOKHT-LBwIev0-/view?usp=sharing)
 
 *Note: The data is for academic use only.*
 
