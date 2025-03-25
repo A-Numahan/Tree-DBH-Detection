@@ -13,6 +13,8 @@ It also handles forked trees (multi stems) automatically.
 
 ## 🖥 Example Output
 ![Sample Output](figures/comparison_table.png)
+![Sample Output](figures/Tree02_ellipse.png)
+![Sample Output](figures/Tree10_ellipse.png)
 
 ## 📂 Data Access
 Due to large file size, the point cloud data is available via Google Drive link below:
